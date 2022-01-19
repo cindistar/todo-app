@@ -11,3 +11,26 @@ A new Flutter project.
   <img src="web/icons/todo_6.png" width="250" />
   <img src="web/icons/todo_7.png" width="250" />
   <img src="web/icons/todo_8.png" width="250" />
+
+# App Overview
+  
+The application is a classic TODO App with CRUD: create (add),  read, update and delete functions.
+It also includes a chip flag showing the priority level (low, medium or high) and a date picker for selecting
+the date.
+
+# Supported state management solutions
+  
+- [Cubit](https://pub.dev/packages/flutter_bloc)
+  
+# Packages 
+
+- [sqflite](https://pub.dev/packages/sqflite)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [bloc](https://pub.dev/packages/bloc)
+- [enum_to_string](https://pub.dev/packages/enum_to_string)
+- [intl](https://pub.dev/packages/intl)
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons)
+- [path_provider](https://pub.dev/packages/path_provider)
+- [syncfusion_flutter_datagrid](https://pub.dev/packages/syncfusion_flutter_datagrid)
+
+
