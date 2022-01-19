@@ -19,7 +19,7 @@ The application is a classic TODO App with CRUD: create (add),  read, update and
 It also includes a chip flag showing the priority level (low, medium or high), a date picker for selecting
 the date and a checkbox in order to mark each todo as completed.
 
-# Supported state management solutions
+# Supported State Management Solutions
   
 - [Cubit](https://pub.dev/packages/flutter_bloc)
   
