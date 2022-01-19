@@ -1,6 +1,7 @@
 # Todo App with Flutter
 
-A new Flutter project.
+A Todo App is generally used to maintain our day-to-day tasks or list everything that we have to do with priority.
+It is helpful in planning our daily schedules.
 
 <p float="left">
   <img src="web/icons/todo_1.png" width="250" />
@@ -15,8 +16,8 @@ A new Flutter project.
 # App Overview
   
 The application is a classic TODO App with CRUD: create (add),  read, update and delete functions.
-It also includes a chip flag showing the priority level (low, medium or high) and a date picker for selecting
-the date.
+It also includes a chip flag showing the priority level (low, medium or high), a date picker for selecting
+the date and a checkbox in order to mark each todo as completed.
 
 # Supported state management solutions
   
