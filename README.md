@@ -15,7 +15,7 @@ It is helpful in planning our daily schedules.
 
 # App Overview
   
-The application is a classic TODO App with CRUD: create (add),  read, update and delete functions.
+The application is a classic TODO App with CRUD and local database with sqflite (QLite plugin for Flutter). It has: create (add),  read, update and delete functions.
 It also includes a chip flag showing the priority level (low, medium or high), a date picker for selecting
 the date and a checkbox in order to mark each todo as completed.
 
